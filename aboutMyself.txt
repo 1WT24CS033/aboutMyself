@@ -6,3 +6,6 @@ Section: A
 Branch: Computer Science Engineering
 Year of Admission: 2024
 College Name: Ghousia Institute and Technology for Women
+SSLC: Trillium Public School
+PUC: Trillium Pu College
+UG Degree: B.E - 2nd Year (Computer Science)  
